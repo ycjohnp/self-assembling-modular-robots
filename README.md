@@ -7,8 +7,6 @@
 
 Controlled through a combination of AprilTags, computer vision using OpenCV, and PID controllers for precise position and movement instructions, the system's functionality has been validated through extensive tests. These tests include assessing the robot's speed in various assembly configurations, speed under cargo load, and the strength of inter-robot connections. Simulated challenging environments were created to validate the overall self-assembly performance of the robotic system.
 
-**Please visit the project website for more info: https://bit.ly/ebed004**
-
 
 
 ## How This Project Started
